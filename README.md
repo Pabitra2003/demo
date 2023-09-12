@@ -1,3 +1,3 @@
 # demo
 This is my first git repository.</br>
-Auther:happy
+Auther:happy(panda)
